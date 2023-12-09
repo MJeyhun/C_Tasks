@@ -1,0 +1,3 @@
+﻿  Main.cpp
+E:\CRepeat\Task_2\ArichmeticalTask\ArichmeticalTask\Main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ArichmeticalTask.vcxproj -> E:\CRepeat\Task_2\ArichmeticalTask\x64\Debug\ArichmeticalTask.exe
